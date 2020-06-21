@@ -5,7 +5,7 @@ This is a starter template for [Learn Next.js](https://nextjs.org/learn).
 
 ## Goals
 
-To create a dyanmic blog that can also be used as a portfolio.
+To create a dynamic blog that can also be used as a portfolio.
 
 ## About Next.js
 - [Documentation](https://nextjs.org/docs)
@@ -19,6 +19,9 @@ To create a dyanmic blog that can also be used as a portfolio.
 * [Next.js](https://nextjs.org/) - React Framework
 * [Sass](https://sass-lang.com/) - CSS compiler
 
+### Deployment
+- [Vercel](https://vercel.com/) Jamstack deployment platform
+
 **VS Code**
 
 ### Installing
@@ -27,8 +30,6 @@ $ cd /documents
 $ git clone https://github.com/DerrikC/Next_js_test.git
 
 ```
-### Deployment
-- [Vercel](https://vercel.com/) Jamstack deployment platform
 
 ## Authors
 
